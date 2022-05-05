@@ -2,13 +2,13 @@
 
 var acct1 = new Account() {
     AcctName = "Checking"
-    };
+};
 var acct2 = new Account() {
     AcctName = "Savings"
-    };
+};
 var acct3 = new Account() {
     AcctName = "House Downpayment"
-    };
+};
 
 acct1.Deposit(1500);
 acct2.Deposit(4000);
